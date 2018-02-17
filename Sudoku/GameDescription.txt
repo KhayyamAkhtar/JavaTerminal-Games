@@ -1,0 +1,10 @@
+Sudoku game written in java contains the following features:
+-All basic rules included such as;
+  *Each row can only contain unique numbers from 1-9
+  *Each column can only contain unique numbers from 1-9
+  *Each individual block can only contain unique numbers from 1-9
+*9x9 grid with each 3x3 individual block
+*User entered numbers in grid can be reset or changed
+*Pre-generated numbers in grid which cannot be reset or changed by the user
+*Error checking and displaying if user violates a rule
+*Added lines to clearly differentiate between individual blocks
