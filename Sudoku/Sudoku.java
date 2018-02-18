@@ -288,6 +288,7 @@ public class Sudoku {
 			newGame.GameEnd();
 			if (newGame.totalNums == 81) {
 				System.out.println("Puzzle has been solved!");
+				gameEnded = true;
 			}
 		}
 	}
